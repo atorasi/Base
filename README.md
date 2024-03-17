@@ -4,7 +4,7 @@
 
 1) Способы пополнения: 
 
-> Вывод с Binance - https://www.binance.com/
+> Вывод с OKX
 
 > Мост Orbiter - https://www.orbiter.finance/, доступные сети: Arbitrum, Optimism
 
