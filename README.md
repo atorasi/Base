@@ -1,5 +1,11 @@
 #Fuck Base, not Girls 
 
+>pip install -r requirements.txt
+>
+>FAQ - https://teletype.in/@n4z4v0d/MAa4dmrO_Ij
+
+Софт ебется с блокчейном BASE 
+
 Список модулей: 
 
 1) Способы пополнения: 
